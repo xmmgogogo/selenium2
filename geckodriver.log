@@ -1,4 +1,23 @@
-1483702973493	geckodriver	INFO	Listening on 127.0.0.1:55121
-1483702974466	hyper::server	ERROR	Peer Name error: Error { repr: Custom(Custom { kind: InvalidInput, error: StringError("invalid argument") }) }
-1483702975468	hyper::server	ERROR	Peer Name error: Error { repr: Custom(Custom { kind: InvalidInput, error: StringError("invalid argument") }) }
-1483702975469	hyper::server	ERROR	Peer Name error: Error { repr: Custom(Custom { kind: InvalidInput, error: StringError("invalid argument") }) }
+1483709303692	geckodriver	INFO	Listening on 127.0.0.1:59303
+1483709304185	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.I3TV3lEl9NqE
+1483709304187	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1483709304199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59307
+1483709305316	Marionette	INFO	Listening on port 59307
+1483709307734	Marionette	INFO	startBrowser ce651c17-aa15-4cf9-accf-b16fe4b3b740
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=2&pwd=s&cb=jQuery110202858984018422951_1483709308977&_=1483709308980, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=1&cb=jQuery110202858984018422951_1483709308977&_=1483709308979, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=3&pwd=se&cb=jQuery110202858984018422951_1483709308977&_=1483709308981, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=4&pwd=sel&cb=jQuery110202858984018422951_1483709308977&_=1483709308982, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=6&pwd=selen&cb=jQuery110202858984018422951_1483709308977&_=1483709308984, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=8&pwd=seleniu&cb=jQuery110202858984018422951_1483709308977&_=1483709308986, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=5&pwd=sele&cb=jQuery110202858984018422951_1483709308977&_=1483709308983, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1431_21105_18560_17001_21618&req=2&csor=7&pwd=seleni&cb=jQuery110202858984018422951_1483709308977&_=1483709308985, line 1: TypeError: jQuery110202858984018422951_1483709308977 is not a function
+[Child 8848] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8848] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1483708755238&_=1483708755248, line 1: TypeError: jQuery110205112562832012889_1483708755238 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver%20&json=1&p=3&sid=1443_19035_21098_18560&req=2&csor=10&pwd=webdriver&cb=jQuery110205112562832012889_1483708755238&_=1483708755249, line 1: TypeError: jQuery110205112562832012889_1483708755238 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver%20a&json=1&p=3&sid=1443_19035_21098_18560&req=2&csor=11&pwd=webdriver%20&cb=jQuery110205112562832012889_1483708755238&_=1483708755250, line 1: TypeError: jQuery110205112562832012889_1483708755238 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver%20ap&json=1&p=3&sid=1443_19035_21098_18560&req=2&csor=12&pwd=webdriver%20a&cb=jQuery110205112562832012889_1483708755238&_=1483708755251, line 1: TypeError: jQuery110205112562832012889_1483708755238 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=webdriver%20api&json=1&p=3&sid=1443_19035_21098_18560&req=2&csor=13&pwd=webdriver%20ap&cb=jQuery110205112562832012889_1483708755238&_=1483708755252, line 1: TypeError: jQuery110205112562832012889_1483708755238 is not a function
+[Child 7876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
